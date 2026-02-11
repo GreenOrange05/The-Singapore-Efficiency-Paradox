@@ -10,7 +10,7 @@
 This Capstone Project challenges the "Smart Nation" mandate by analyzing 10 years of sectoral data (2014-2024). Using a custom **Economic Resilience Index (ERI)**, I uncovered the **"Efficiency Curse"**: the counter-intuitive finding that rapid digital transformation *lowers* economic resilience in labor-intensive sectors for up to 2 years before benefits materialize.
 
 ### 📥 Read the Full Paper
-[**Click here to view the Executive Report (PDF)**](./THE_EFFICIENCY_PARADOX.pdf)
+[**Click here to view the Executive Report (PDF)**](./The_Efficiency_Paradox.pdf)
 
 ## 📊 Key Findings (The "Singapore Paradox")
 1.  **The Twin Test:** Standard economic metrics (Volatility/GDP) mask risk. My robust **Semi-Deviation Index (V2)** revealed hidden fragility in high-growth sectors.
