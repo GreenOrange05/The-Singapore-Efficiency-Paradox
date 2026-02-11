@@ -27,6 +27,5 @@ This analysis is broken into modular notebooks for reproducibility:
 * **`05_Policy_Simulation.ipynb`**: The "Transition Trap" simulation model (Figure 4) demonstrating the liquidity risks of digitalization.
 
 ## 🚀 How to Run
-(Instructions for future users)
 1. Clone the repo.
 2. Run notebooks `01` through `05` in order.
